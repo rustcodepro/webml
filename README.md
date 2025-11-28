@@ -2,7 +2,6 @@
 
 - neural network with wasm for image classification. 
 - classify the image detection where you can define the boundary boxes. 
-- a collaboration with [Nathaniel Button](https://bsky.app/profile/nate-fe2o3.bsky.social)
 
 Conceptualization:
 - RGB based single neural classification method i implemented in Burn
